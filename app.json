@@ -24,12 +24,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it",
 			"required": false,
-			"value": "DarkWinzo"
+			"value": "Mr Juice"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "263780699988"
 		},
 		"OPEN_AI_KEY": {
 			"description": "Enter Open AI api key here",
